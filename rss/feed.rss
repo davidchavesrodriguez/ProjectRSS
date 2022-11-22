@@ -12,10 +12,11 @@
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>Some text.</description>
         </item>
-        <title>Eclipse</title>
-        <link>https://davidchavesrodriguez.github.io/ProjectRSS/eclipse.html</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <description>Some text.</description>
-    </item>
+        <item>
+            <title>Eclipse</title>
+            <link>https://davidchavesrodriguez.github.io/ProjectRSS/eclipse.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
     </channel>
 </rss>
